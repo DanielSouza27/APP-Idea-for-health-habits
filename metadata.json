@@ -1,0 +1,7 @@
+{
+  "name": "Assistente IA & Agenda",
+  "description": "A comprehensive bilingual personal assistant with a calendar, planner, AI research capabilities, and activity logging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
